@@ -2,7 +2,7 @@
 title: "Social Justice Theories in Education"
 ---
 
-**Globed master \| 2023-2024**
+**Globed master \| 2024-2025**
 
 # General information
 
@@ -28,4 +28,10 @@ In the first part of the session, the students will be provided with an overview
 
 In this session, we will discuss the most relevant concepts and theories about distributive justice. We will also explore their applications to education and the different conceptualisations of the distribuendum in education. Moreover, we will briefly examine the capabilities theory of justice as an alternative to Rawlsian approaches. Finally, we will examine the implications of distributive justice theories in conceptualising educational equity.
 
--   Slides \| Session 2
+-   [Slides \| Session 2](https://drive.google.com/file/d/1j65k6Afuobhn8-UYZjGRTn1L_wYYC1r8/view?usp=sharing)
+
+# Session 3 \| Recognition and representation
+
+In this session, two other social justice dimensions will be discussed: recognition and representation. Also, we will explore how pluralist models of social justice can contribute to the analysis of education phenomena and policies. Finally, we will analyse the potential dilemmas and trade-offs between distribution, recognition, and representation.
+
+- Slides \| Session 3
