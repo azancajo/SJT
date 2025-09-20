@@ -1,9 +1,13 @@
 ---
 title: "Social Justice Theories in Education"
+toc: false
+html:
+  css: styles.css
 ---
 
-**Globed master \| 2024-2025**
+**Globed master \| 2025-2026**
 
+::: {.hidden}
 # General information
 
 -   [Syllabus](https://drive.google.com/file/d/1OM2PQdQA5fzh9oLR2eYdAVrQTLZoc-NE/view?usp=sharing)
@@ -74,3 +78,4 @@ In this session, we will discuss to what extent a universal definition of social
 In this session, we will analyse disability justice from the perspectives of disabled activities. The session will also examine topics such as intersectionality, interdependence, redistribution, recognition, representation, and inclusivity.
 
 -   [Slides \| Session 8](https://drive.google.com/file/d/1Oi6adfnAHj8_SI-Nv-gttKwiZTcCr4B3/view?usp=sharing)
+:::
