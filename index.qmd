@@ -8,9 +8,10 @@ html:
 **Globed master \| 2025-2026**
 
 ::: {.hidden}
+
 # General information
 
--   [Syllabus](https://drive.google.com/file/d/1OM2PQdQA5fzh9oLR2eYdAVrQTLZoc-NE/view?usp=sharing)
+-   [Syllabus]
 
 ## Assignments
 
@@ -20,15 +21,26 @@ html:
 
 -   [Assessment rubric](https://drive.google.com/file/d/1fwCrC-A7wIXxGwYcUp_PGxkYiFj-g1HZ/view?usp=sharing)
 
--   **Blog post examples:** [Example 1](https://drive.google.com/file/d/1fnbKyLnp52Q20TuSjkOrObz5h90J-jOg/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1fIU6uvWb_DE5T0jZaoE4xfR_UqwTiHcO/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1fpB-YAAISbZNvrkqrMPQfwUS4zOPacm8/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1fZil-IHDPWsi7YF7PZpsLdcRNR0pTuhF/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/1fM-StPSWYFVxzhyS6iz3KIE6AxOH9-mr/view?usp=sharing)
+-   **Blog post examples:** 
+
+:::
+
+::: {.hidden}
+
+[Example 1](https://drive.google.com/file/d/1fnbKyLnp52Q20TuSjkOrObz5h90J-jOg/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1fIU6uvWb_DE5T0jZaoE4xfR_UqwTiHcO/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1fpB-YAAISbZNvrkqrMPQfwUS4zOPacm8/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1fZil-IHDPWsi7YF7PZpsLdcRNR0pTuhF/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/1fM-StPSWYFVxzhyS6iz3KIE6AxOH9-mr/view?usp=sharing)
+
+
 
 ### Assignment 2 \| Short essay
 
--   [Assignment guidelines](https://drive.google.com/file/d/1C9VMXnh1FYJXQSxSY2-vq7cB7czpGLO7/view?usp=sharing)
+-   [Assignment guidelines]
+-   [Assessment rubric]
 
--   [Assessment rubric](https://drive.google.com/file/d/1C6FpyzJujOgfEnA7OkreJZ4ARi-V47UD/view?usp=sharing)
+-   [**Short essay examples**]
 
--   [**Short essay examples**](https://drive.google.com/drive/folders/15eUmshnyvXIfbeZ5XJKjV7U2iiYH0_uz?usp=sharing)
+:::
+
+::: {.hidden}
 
 # Session 1 \| Introduction to the course + What is social justice?
 
@@ -78,4 +90,4 @@ In this session, we will discuss to what extent a universal definition of social
 In this session, we will analyse disability justice from the perspectives of disabled activities. The session will also examine topics such as intersectionality, interdependence, redistribution, recognition, representation, and inclusivity.
 
 -   [Slides \| Session 8](https://drive.google.com/file/d/1Oi6adfnAHj8_SI-Nv-gttKwiZTcCr4B3/view?usp=sharing)
-:::
+
