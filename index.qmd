@@ -5,49 +5,47 @@ html:
   css: styles.css
 ---
 
-**Globed master \| 2025-2026**
-
-::: {.hidden}
+## **Globed master \| 2025-2026**
 
 # General information
 
--   [Syllabus]
+-   Syllabus
 
 ## Assignments
 
 ### Assignment 1 \| Blog post
 
--   [Assignment guidelines](https://drive.google.com/file/d/1cu3_w-h-o7r-BSWwc9Li_1fMDB1JNbG4/view?usp=sharing)
+-   Assignment guidelines
 
--   [Assessment rubric](https://drive.google.com/file/d/1fwCrC-A7wIXxGwYcUp_PGxkYiFj-g1HZ/view?usp=sharing)
+-   Assessment rubric
 
--   **Blog post examples:** 
-
-:::
-
-::: {.hidden}
+::: hidden
+-   **Blog post examples:**
 
 [Example 1](https://drive.google.com/file/d/1fnbKyLnp52Q20TuSjkOrObz5h90J-jOg/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1fIU6uvWb_DE5T0jZaoE4xfR_UqwTiHcO/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1fpB-YAAISbZNvrkqrMPQfwUS4zOPacm8/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1fZil-IHDPWsi7YF7PZpsLdcRNR0pTuhF/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/1fM-StPSWYFVxzhyS6iz3KIE6AxOH9-mr/view?usp=sharing)
 
-
-
 ### Assignment 2 \| Short essay
 
--   [Assignment guidelines]
--   [Assessment rubric]
+-   \[Assignment guidelines\]
 
--   [**Short essay examples**]
+-   \[Assessment rubric\]
 
+-   \[**Short essay examples**\]
 :::
 
-::: {.hidden}
+## Writing resources
+
+-   Writing essays – Some guidelines by Clara Fontdevila
+
+-   [Writing a Formal Research Paper in the Social Sciences](https://drive.google.com/file/d/1W34cCqDxN9YYbnO5ZfisPvGjJ7rkgcQH/view?usp=sharing) by Academic Center for Excellence
 
 # Session 1 \| Introduction to the course + What is social justice?
 
-In the first part of the session, the students will be provided with an overview of the course contents and the assessment policies. In the second part, we will discuss the fundamentals of social justice as a key topic of political sociology and its relevance in education.
+In the first part of the session, students will be provided with an overview of the course content and assessment policies. In the second part, we will discuss the fundamentals of social justice as a key topic of political philosophy and its relevance in education.
 
--   [Slides \| Session 1](https://drive.google.com/file/d/1yRIH5-9RHxe_JP1nYiN_5GvXR8pjuUJN/view?usp=sharing)
+-   Slides \| Session 1
 
+::: hidden
 # Session 2 \| Distributive justice
 
 In this session, we will discuss the most relevant concepts and theories about distributive justice. We will also explore their applications to education and the different conceptualisations of the distribuendum in education. Moreover, we will briefly examine the capabilities theory of justice as an alternative to Rawlsian approaches. Finally, we will examine the implications of distributive justice theories in conceptualising educational equity.
@@ -90,4 +88,4 @@ In this session, we will discuss to what extent a universal definition of social
 In this session, we will analyse disability justice from the perspectives of disabled activities. The session will also examine topics such as intersectionality, interdependence, redistribution, recognition, representation, and inclusivity.
 
 -   [Slides \| Session 8](https://drive.google.com/file/d/1Oi6adfnAHj8_SI-Nv-gttKwiZTcCr4B3/view?usp=sharing)
-
+:::
