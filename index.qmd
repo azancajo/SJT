@@ -9,20 +9,22 @@ html:
 
 # General information
 
--   Syllabus
+-   [Syllabus](https://drive.google.com/file/d/1Cgxrc79P6NPiCZ_tgpSuePkKHUJwk4mO/view?usp=sharing)
 
 ## Assignments
 
 ### Assignment 1 \| Blog post
 
--   Assignment guidelines
+-   Assignment guidelines (to be uploaded after the first session)
 
--   Assessment rubric
+-   Assessment rubric (to be uploaded after the first session)
+
+
+-   **Blog post examples:** (to be uploaded after the first session)
 
 ::: hidden
--   **Blog post examples:**
-
 [Example 1](https://drive.google.com/file/d/1fnbKyLnp52Q20TuSjkOrObz5h90J-jOg/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1fIU6uvWb_DE5T0jZaoE4xfR_UqwTiHcO/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1fpB-YAAISbZNvrkqrMPQfwUS4zOPacm8/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1fZil-IHDPWsi7YF7PZpsLdcRNR0pTuhF/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/1fM-StPSWYFVxzhyS6iz3KIE6AxOH9-mr/view?usp=sharing)
+
 
 ### Assignment 2 \| Short essay
 
@@ -35,7 +37,7 @@ html:
 
 ## Writing resources
 
--   Writing essays – Some guidelines by Clara Fontdevila
+-   [Writing essays – Some guidelines](https://drive.google.com/file/d/1uelVt2zKkggmUMRNj5QsEkNk9SBBrotz/view?usp=sharing) by Clara Fontdevila
 
 -   [Writing a Formal Research Paper in the Social Sciences](https://drive.google.com/file/d/1W34cCqDxN9YYbnO5ZfisPvGjJ7rkgcQH/view?usp=sharing) by Academic Center for Excellence
 
