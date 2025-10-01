@@ -15,15 +15,15 @@ html:
 
 ### Assignment 1 \| Blog post
 
--   Assignment guidelines (to be uploaded after the first session)
+-   [Assignment guidelines](https://drive.google.com/file/d/1ttGgWfnHxc9I05uoZWUmBdxCSNUnsPtw/view?usp=sharing)
 
--   Assessment rubric (to be uploaded after the first session)
+-   [Assessment rubric](https://drive.google.com/file/d/1ktVgVK2AHmbQ1YpdgTHvVEnVbn-j5cxZ/view?usp=sharing)
 
--   **Blog post examples:** (to be uploaded after the first session)
+-   **Blog post examples:**
+
+[Example 1](https://drive.google.com/file/d/1Kg_AfT-8gWb2GsSd7uZPgEqu2DcXt2UD/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/18n1MLcX_TuPahAl1zpcOmgEtvwywG72r/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/16KpECeT7zPksqsUtzInAj6ef1qON94Jw/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1zPvtYvtehgiCQ0rJnpmw3CyUB-_yMu-B/view?usp=sharing)
 
 ::: hidden
-[Example 1](https://drive.google.com/file/d/1fnbKyLnp52Q20TuSjkOrObz5h90J-jOg/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1fIU6uvWb_DE5T0jZaoE4xfR_UqwTiHcO/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1fpB-YAAISbZNvrkqrMPQfwUS4zOPacm8/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1fZil-IHDPWsi7YF7PZpsLdcRNR0pTuhF/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/1fM-StPSWYFVxzhyS6iz3KIE6AxOH9-mr/view?usp=sharing)
-
 ### Assignment 2 \| Short essay
 
 -   \[Assignment guidelines\]
@@ -43,7 +43,7 @@ html:
 
 In the first part of the session, students will be provided with an overview of the course content and assessment policies. In the second part, we will discuss the fundamentals of social justice as a key topic of political philosophy and its relevance in education.
 
--   Slides \| Session 1
+-   [Slides \| Session 1](https://drive.google.com/file/d/1O1bwBWjf6XJBFAzklj5TDepg-E-l0JKY/view?usp=sharing)
 
 ::: hidden
 # Session 2 \| Distributive justice
