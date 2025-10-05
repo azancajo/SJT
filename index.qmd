@@ -1,0 +1,91 @@
+---
+title: "Social Justice Theories in Education"
+toc: false
+html:
+  css: styles.css
+---
+
+## **Globed master \| 2025-2026**
+
+# General information
+
+-   [Syllabus](https://drive.google.com/file/d/1Cgxrc79P6NPiCZ_tgpSuePkKHUJwk4mO/view?usp=sharing)
+
+## Assignments
+
+### Assignment 1 \| Blog post
+
+-   [Assignment guidelines](https://drive.google.com/file/d/1ttGgWfnHxc9I05uoZWUmBdxCSNUnsPtw/view?usp=sharing)
+
+-   [Assessment rubric](https://drive.google.com/file/d/1ktVgVK2AHmbQ1YpdgTHvVEnVbn-j5cxZ/view?usp=sharing)
+
+-   **Blog post examples:**
+
+[Example 1](https://drive.google.com/file/d/1Kg_AfT-8gWb2GsSd7uZPgEqu2DcXt2UD/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/18n1MLcX_TuPahAl1zpcOmgEtvwywG72r/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/16KpECeT7zPksqsUtzInAj6ef1qON94Jw/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1zPvtYvtehgiCQ0rJnpmw3CyUB-_yMu-B/view?usp=sharing)
+
+::: hidden
+### Assignment 2 \| Short essay
+
+-   \[Assignment guidelines\]
+
+-   \[Assessment rubric\]
+
+-   \[**Short essay examples**\]
+:::
+
+## Writing resources
+
+-   [Writing essays – Some guidelines](https://drive.google.com/file/d/1uelVt2zKkggmUMRNj5QsEkNk9SBBrotz/view?usp=sharing) by Clara Fontdevila
+
+-   [Writing a Formal Research Paper in the Social Sciences](https://drive.google.com/file/d/1W34cCqDxN9YYbnO5ZfisPvGjJ7rkgcQH/view?usp=sharing) by Academic Center for Excellence
+
+# Session 1 \| Introduction to the course + What is social justice?
+
+In the first part of the session, students will be provided with an overview of the course content and assessment policies. In the second part, we will discuss the fundamentals of social justice as a key topic of political philosophy and its relevance in education.
+
+-   [Slides \| Session 1](https://drive.google.com/file/d/1O1bwBWjf6XJBFAzklj5TDepg-E-l0JKY/view?usp=sharing)
+
+# Session 2 \| Distributive justice
+
+In this session, we will discuss the most relevant concepts and theories related to distributive justice. We will also explore their applications to education and the different conceptualisations of the *distribuendum* in education. Moreover, we will briefly examine the capabilities theory of justice as an alternative to Rawlsian approaches. Finally, we will explore the implications of distributive justice theories in conceptualising educational equity.
+
+-   Slides \| Session 2
+
+::: hidden
+# Session 3 \| Recognition and representation
+
+In this session, two other social justice dimensions will be discussed: recognition and representation. Also, we will explore how pluralist models of social justice can contribute to the analysis of education phenomena and policies. Finally, we will analyse the potential dilemmas and trade-offs between distribution, recognition, and representation.
+
+-   [Slides \| Session 3](https://drive.google.com/file/d/18aDskWRlQlm4rAfowcBZL1bdQYOEyWlv/view?usp=sharing)
+
+# Session 4 \| Towards a socially just school: the role of curriculum, pedagogy and teachers' beliefs
+
+In this session we will reflect on the role of schools as sites for social justice and social transformation or, on the contrary, sites for social reproduction. We will particularly focus on curriculum, pedagogy and teachers’ beliefs as the main dimensions for analysing and building socially just schools for all.
+
+-   [Slides \| Session 4](https://drive.google.com/file/d/1lpqlj8s-Gr8pOg3_03YmD0XGhhSUOXrQ/view?usp=sharing)
+
+# Session 5 \| Educational policies and social justice
+
+In this session, we will explore how to analyse educational policies and educational reforms through the lens of social justice. In the session, we will explore the different social justice paradigms behind key educational policies, how social justice is conceptualised by decision-makers, and the implications for policymaking in education.
+
+-   [Slides \| Session 5](https://drive.google.com/file/d/1q-Ypfkse-aOFv9DUDWvN09DyvvAAKcCB/view?usp=sharing)
+
+# Session 6 \| Researching social justice in education
+
+In this session, we will explore how to develop research in education and social justice, both as a central focus or as a dimension of analysis. During the session, we will review some practical examples and guidelines to analyse primary and secondary research data from a social justice perspective.
+
+-   [Slides \| Session 6](https://drive.google.com/file/d/1qCFOsdmZ3Rcz97uVabWHFFNtigasWwL7/view?usp=sharing)
+-   [Seminar slides](https://drive.google.com/file/d/178UJ9f0hu9UrNmKwpMMdpkttLcTytwwQ/view?usp=sharing)
+
+# Session 7 \| Social justice from a global and international perspective + course recap + final assessment Q&A
+
+In this session, we will discuss to what extent a universal definition of social justice is possible and desirable. We will also examine how the main international organisations approach social justice in education and how their approaches have evolved over time
+
+-   [Slides \| Session 7](https://drive.google.com/file/d/1B31bAoWfhXt0lPyjBG00AVwVee1QHtxv/view?usp=sharing)
+
+# Session 8 \| Towards an intersectional disability justice
+
+In this session, we will analyse disability justice from the perspectives of disabled activities. The session will also examine topics such as intersectionality, interdependence, redistribution, recognition, representation, and inclusivity.
+
+-   [Slides \| Session 8](https://drive.google.com/file/d/1Oi6adfnAHj8_SI-Nv-gttKwiZTcCr4B3/view?usp=sharing)
+:::
