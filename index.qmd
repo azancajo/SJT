@@ -26,11 +26,13 @@ html:
 ::: hidden
 ### Assignment 2 \| Short essay
 
--   \[Assignment guidelines\]
+-   [Assignment guidelines](https://drive.google.com/file/d/1kLI0ag_xTHYS-Yp6k3fiOVRLD4mS1tDt/view?usp=sharing)
 
--   \[Assessment rubric\]
+-   [Assessment rubric](https://drive.google.com/file/d/1rovy5FXKWHX0n7VHp-tvle9LCx1LFqH3/view?usp=sharing)
 
--   \[**Short essay examples**\]
+-   **Short essay examples**:
+
+[Example 1](https://drive.google.com/file/d/1T2NJ7SsK6sQe1M6oKhYS4KVX5ug4pL-9/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/13ia8wW1urHBxaNaJOISEGwMcCNdJTlio/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/19RO600AIYX5M1-h1KiU-J_BgQB4Yf2F2/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1r6s1ROLLd8Oo66U8Bd9e9IhEeR7clmk-/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/11QWw32kxnu5aMpFyYnenVc3Sf4Grf_iq/view?usp=sharing) \| [Example 6](https://drive.google.com/file/d/1HBJ6oxVmf7f1JQLfm65tRY2FLxmXYDGe/view?usp=sharing)
 :::
 
 ## Writing resources
@@ -69,7 +71,6 @@ In this session, we will explore how to develop research in education and social
 
 -   [Slides \| Session 5](https://drive.google.com/file/d/1HFd3iBL1ipmOhufnzMDTu0aBWS-DsKSs/view?usp=sharing)
 -   [Seminar slides](https://drive.google.com/file/d/1nahv1-Y-ENLpxJlgjg0mS_pkhCUqMe6v/view?usp=sharing)
-
 
 # Session 6 \| Educational policies and social justice
 
