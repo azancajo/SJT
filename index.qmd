@@ -23,7 +23,6 @@ html:
 
 [Example 1](https://drive.google.com/file/d/1Kg_AfT-8gWb2GsSd7uZPgEqu2DcXt2UD/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/18n1MLcX_TuPahAl1zpcOmgEtvwywG72r/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/16KpECeT7zPksqsUtzInAj6ef1qON94Jw/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1zPvtYvtehgiCQ0rJnpmw3CyUB-_yMu-B/view?usp=sharing)
 
-
 ### Assignment 2 \| Short essay
 
 -   [Assignment guidelines](https://drive.google.com/file/d/1kLI0ag_xTHYS-Yp6k3fiOVRLD4mS1tDt/view?usp=sharing)
@@ -33,7 +32,6 @@ html:
 -   **Short essay examples**:
 
 [Example 1](https://drive.google.com/file/d/1T2NJ7SsK6sQe1M6oKhYS4KVX5ug4pL-9/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/13ia8wW1urHBxaNaJOISEGwMcCNdJTlio/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/19RO600AIYX5M1-h1KiU-J_BgQB4Yf2F2/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1r6s1ROLLd8Oo66U8Bd9e9IhEeR7clmk-/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/11QWw32kxnu5aMpFyYnenVc3Sf4Grf_iq/view?usp=sharing) \| [Example 6](https://drive.google.com/file/d/1HBJ6oxVmf7f1JQLfm65tRY2FLxmXYDGe/view?usp=sharing)
-
 
 ## Writing resources
 
@@ -70,21 +68,24 @@ In this session we will reflect on the role of schools as sites for social justi
 In this session, we will explore how to develop research in education and social justice, both as a central focus or as a dimension of analysis. During the session, we will review some practical examples and guidelines to analyse primary and secondary research data from a social justice perspective.
 
 -   [Slides \| Session 5](https://drive.google.com/file/d/1HFd3iBL1ipmOhufnzMDTu0aBWS-DsKSs/view?usp=sharing)
--   [Seminar slides](https://drive.google.com/file/d/1nahv1-Y-ENLpxJlgjg0mS_pkhCUqMe6v/view?usp=sharing)
+-   [Seminar \| slides](https://drive.google.com/file/d/1nahv1-Y-ENLpxJlgjg0mS_pkhCUqMe6v/view?usp=sharing)
 
 # Session 6 \| Educational policies and social justice
 
 In this session, we will explore how to analyse educational policies and educational reforms through the lens of social justice. In the session, we will explore the different social justice paradigms behind key educational policies, how social justice is conceptualised by decision-makers, and the implications for policymaking in education.
 
--   Slides \| Session 6
+-   [Slides \| Session 6](https://drive.google.com/file/d/1fx_lKFU9-BPKJCqS1Cu7W-WsoMaYd_Z9/view?usp=sharing)
+-   [Seminar \| slides](https://drive.google.com/file/d/1hsrUD5o6zbRFSZJM4uioZjA2DXnjmyks/view?usp=sharing)
+-   [Paper \| Seminar \| Emotional experiences and stigma among families benefiting from Barcelona’s shock plan against school segregation and for inclusion and equal opportunities and educational success](https://drive.google.com/file/d/15GtYlgKRg4EEInEYMBogeOOuBN4lrsTg/view?usp=sharing)
+
+
+# Session 7 \| Intersectional approach to social justice
+
+This session is dedicated to exploring the concept of intersectionality and its applications and implications for social justice and educational policy perspectives. During the session, we will discuss the main defining characteristics of the concept, as well as how to apply it to explore educational phenomena and policies.
+
+-   Slides \| Session 7
 
 ::: hidden
-# Session 7 \| Social justice from a global and international perspective + course recap + final assessment Q&A
-
-In this session, we will discuss to what extent a universal definition of social justice is possible and desirable. We will also examine how the main international organisations approach social justice in education and how their approaches have evolved over time
-
--   [Slides \| Session 7](https://drive.google.com/file/d/1B31bAoWfhXt0lPyjBG00AVwVee1QHtxv/view?usp=sharing)
-
 # Session 8 \| Towards an intersectional disability justice
 
 In this session, we will analyse disability justice from the perspectives of disabled activities. The session will also examine topics such as intersectionality, interdependence, redistribution, recognition, representation, and inclusivity.
