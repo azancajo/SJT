@@ -4,88 +4,89 @@ toc: false
 html:
   css: styles.css
 ---
+## **Globed master \| 2026-2027**
 
-## **Globed master \| 2025-2026**
-
+::: {.content-hidden}
 # General information
 
--   [Syllabus](https://drive.google.com/file/d/1ZAuRBkxzys3KwSofPaNmfOlc-dh277HV/view?usp=sharing)
+- [Syllabus](https://drive.google.com/file/d/1ZAuRBkxzys3KwSofPaNmfOlc-dh277HV/view?usp=sharing)
 
 ## Assignments
 
 ### Assignment 1 \| Blog post
 
--   [Assignment guidelines](https://drive.google.com/file/d/1ttGgWfnHxc9I05uoZWUmBdxCSNUnsPtw/view?usp=sharing)
+- [Assignment guidelines](https://drive.google.com/file/d/1ttGgWfnHxc9I05uoZWUmBdxCSNUnsPtw/view?usp=sharing)
 
--   [Assessment rubric](https://drive.google.com/file/d/1ktVgVK2AHmbQ1YpdgTHvVEnVbn-j5cxZ/view?usp=sharing)
+- [Assessment rubric](https://drive.google.com/file/d/1ktVgVK2AHmbQ1YpdgTHvVEnVbn-j5cxZ/view?usp=sharing)
 
--   **Blog post examples:**
+- **Blog post examples:**
 
 [Example 1](https://drive.google.com/file/d/1Kg_AfT-8gWb2GsSd7uZPgEqu2DcXt2UD/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/18n1MLcX_TuPahAl1zpcOmgEtvwywG72r/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/16KpECeT7zPksqsUtzInAj6ef1qON94Jw/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1zPvtYvtehgiCQ0rJnpmw3CyUB-_yMu-B/view?usp=sharing)
 
 ### Assignment 2 \| Short essay
 
--   [Assignment guidelines](https://drive.google.com/file/d/1kLI0ag_xTHYS-Yp6k3fiOVRLD4mS1tDt/view?usp=sharing)
+- [Assignment guidelines](https://drive.google.com/file/d/1kLI0ag_xTHYS-Yp6k3fiOVRLD4mS1tDt/view?usp=sharing)
 
--   [Assessment rubric](https://drive.google.com/file/d/1rovy5FXKWHX0n7VHp-tvle9LCx1LFqH3/view?usp=sharing)
+- [Assessment rubric](https://drive.google.com/file/d/1rovy5FXKWHX0n7VHp-tvle9LCx1LFqH3/view?usp=sharing)
 
--   **Short essay examples**:
+- **Short essay examples**:
 
 [Example 1](https://drive.google.com/file/d/1T2NJ7SsK6sQe1M6oKhYS4KVX5ug4pL-9/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/13ia8wW1urHBxaNaJOISEGwMcCNdJTlio/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/19RO600AIYX5M1-h1KiU-J_BgQB4Yf2F2/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1r6s1ROLLd8Oo66U8Bd9e9IhEeR7clmk-/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/11QWw32kxnu5aMpFyYnenVc3Sf4Grf_iq/view?usp=sharing) \| [Example 6](https://drive.google.com/file/d/1HBJ6oxVmf7f1JQLfm65tRY2FLxmXYDGe/view?usp=sharing)
 
 ## Writing resources
 
--   [Writing essays – Some guidelines](https://drive.google.com/file/d/1uelVt2zKkggmUMRNj5QsEkNk9SBBrotz/view?usp=sharing) by Clara Fontdevila
+- [Writing essays – Some guidelines](https://drive.google.com/file/d/1uelVt2zKkggmUMRNj5QsEkNk9SBBrotz/view?usp=sharing) by Clara Fontdevila
 
--   [Writing a Formal Research Paper in the Social Sciences](https://drive.google.com/file/d/1W34cCqDxN9YYbnO5ZfisPvGjJ7rkgcQH/view?usp=sharing) by Academic Center for Excellence
+- [Writing a Formal Research Paper in the Social Sciences](https://drive.google.com/file/d/1W34cCqDxN9YYbnO5ZfisPvGjJ7rkgcQH/view?usp=sharing) by Academic Center for Excellence
 
 # Session 1 \| Introduction to the course + What is social justice?
 
 In the first part of the session, students will be provided with an overview of the course content and assessment policies. In the second part, we will discuss the fundamentals of social justice as a key topic of political philosophy and its relevance in education.
 
--   [Slides \| Session 1](https://drive.google.com/file/d/1O1bwBWjf6XJBFAzklj5TDepg-E-l0JKY/view?usp=sharing)
+- [Slides \| Session 1](https://drive.google.com/file/d/1O1bwBWjf6XJBFAzklj5TDepg-E-l0JKY/view?usp=sharing)
 
 # Session 2 \| Distributive justice
 
 In this session, we will discuss the most relevant concepts and theories related to distributive justice. We will also explore their applications to education and the different conceptualisations of the *distribuendum* in education. Moreover, we will briefly examine the capabilities theory of justice as an alternative to Rawlsian approaches. Finally, we will explore the implications of distributive justice theories in conceptualising educational equity.
 
--   [Slides \| Session 2](https://drive.google.com/file/d/1-qhUujSUmqZ64JkGfHqd_lnqbuWMAjE5/view?usp=sharing)
+- [Slides \| Session 2](https://drive.google.com/file/d/1-qhUujSUmqZ64JkGfHqd_lnqbuWMAjE5/view?usp=sharing)
 
 # Session 3 \| Recognition and representation
 
 In this session, two other social justice dimensions will be discussed: recognition and representation. Also, we will examine how pluralist models of social justice can contribute to the analysis of educational phenomena and policies. Finally, we will analyse the potential dilemmas and trade-offs between distribution, recognition, and representation.
 
--   [Slides \| Session 3](https://drive.google.com/file/d/1wdxVnFXVudH6C1m5hieMRpF6YF6Ls-9j/view?usp=sharing)
+- [Slides \| Session 3](https://drive.google.com/file/d/1wdxVnFXVudH6C1m5hieMRpF6YF6Ls-9j/view?usp=sharing)
 
 # Session 4 \| Towards a socially just school: the role of curriculum, pedagogy and teachers' beliefs
 
 In this session we will reflect on the role of schools as sites for social justice and social transformation or, on the contrary, sites for social reproduction. We will particularly focus on curriculum, pedagogy and teachers’ beliefs as the main dimensions for analysing and building socially just schools for all.
 
--   [Slides \| Session 4](https://drive.google.com/file/d/1v6sYKEzrcxV06wdKmAFBpIDjGrgsB5pp/view?usp=sharing)
+- [Slides \| Session 4](https://drive.google.com/file/d/1v6sYKEzrcxV06wdKmAFBpIDjGrgsB5pp/view?usp=sharing)
 
 # Session 5 \| Researching social justice in education
 
 In this session, we will explore how to develop research in education and social justice, both as a central focus or as a dimension of analysis. During the session, we will review some practical examples and guidelines to analyse primary and secondary research data from a social justice perspective.
 
--   [Slides \| Session 5](https://drive.google.com/file/d/1HFd3iBL1ipmOhufnzMDTu0aBWS-DsKSs/view?usp=sharing)
--   [Seminar \| slides](https://drive.google.com/file/d/1nahv1-Y-ENLpxJlgjg0mS_pkhCUqMe6v/view?usp=sharing)
+- [Slides \| Session 5](https://drive.google.com/file/d/1HFd3iBL1ipmOhufnzMDTu0aBWS-DsKSs/view?usp=sharing)
+- [Seminar \| slides](https://drive.google.com/file/d/1nahv1-Y-ENLpxJlgjg0mS_pkhCUqMe6v/view?usp=sharing)
 
 # Session 6 \| Educational policies and social justice
 
 In this session, we will explore how to analyse educational policies and educational reforms through the lens of social justice. In the session, we will explore the different social justice paradigms behind key educational policies, how social justice is conceptualised by decision-makers, and the implications for policymaking in education.
 
--   [Slides \| Session 6](https://drive.google.com/file/d/1fx_lKFU9-BPKJCqS1Cu7W-WsoMaYd_Z9/view?usp=sharing)
--   [Seminar \| slides](https://drive.google.com/file/d/1hsrUD5o6zbRFSZJM4uioZjA2DXnjmyks/view?usp=sharing)
--   [Paper \| Seminar \| Emotional experiences and stigma among families benefiting from Barcelona’s shock plan against school segregation and for inclusion and equal opportunities and educational success](https://drive.google.com/file/d/15GtYlgKRg4EEInEYMBogeOOuBN4lrsTg/view?usp=sharing)
+- [Slides \| Session 6](https://drive.google.com/file/d/1fx_lKFU9-BPKJCqS1Cu7W-WsoMaYd_Z9/view?usp=sharing)
+- [Seminar \| slides](https://drive.google.com/file/d/1hsrUD5o6zbRFSZJM4uioZjA2DXnjmyks/view?usp=sharing)
+- [Paper \| Seminar \| Emotional experiences and stigma among families benefiting from Barcelona’s shock plan against school segregation and for inclusion and equal opportunities and educational success](https://drive.google.com/file/d/15GtYlgKRg4EEInEYMBogeOOuBN4lrsTg/view?usp=sharing)
 
 # Session 7 \| Intersectional approach to social justice
 
 This session is dedicated to exploring the concept of intersectionality and its applications and implications for social justice and educational policy perspectives. During the session, we will discuss the main defining characteristics of the concept, as well as how to apply it to explore educational phenomena and policies.
 
--   [Slides \| Session 7](https://drive.google.com/file/d/12Z4o6QaPywzPZ3Xm6Y7lLSQgKIVNeqzD/view?usp=sharing)
+- [Slides \| Session 7](https://drive.google.com/file/d/12Z4o6QaPywzPZ3Xm6Y7lLSQgKIVNeqzD/view?usp=sharing)
 
 # Session 8 \| Territorial approach to social justice + final assessment Q&A
 
 In this final session, we will introduce the concept of spatial justice and how to approach social justice from a territorial perspective. The second part of the session will be dedicated to answering questions and solving doubts about the final assessment.
 
--   [Slides \| Session 8](https://drive.google.com/file/d/16fRGx2vvzrCcOFkVR_Fqs1VuTyb_WqAJ/view?usp=sharing)
+- [Slides \| Session 8](https://drive.google.com/file/d/16fRGx2vvzrCcOFkVR_Fqs1VuTyb_WqAJ/view?usp=sharing)
+:::
