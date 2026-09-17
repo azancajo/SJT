@@ -4,13 +4,15 @@ toc: false
 html:
   css: styles.css
 ---
+
 ## **Globed master \| 2026-2027**
 
-::: {.content-hidden}
+
 # General information
 
-- [Syllabus](https://drive.google.com/file/d/1ZAuRBkxzys3KwSofPaNmfOlc-dh277HV/view?usp=sharing)
+- [Syllabus](https://drive.google.com/file/d/12vy9PxdNOr4HZ1htUm5pEJTahJjk3yYU/view?usp=sharing)
 
+::: content-hidden
 ## Assignments
 
 ### Assignment 1 \| Blog post
