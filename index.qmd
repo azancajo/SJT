@@ -33,6 +33,7 @@ html:
 - **Short essay examples**:
 
 [Example 1](https://drive.google.com/file/d/1T2NJ7SsK6sQe1M6oKhYS4KVX5ug4pL-9/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/13ia8wW1urHBxaNaJOISEGwMcCNdJTlio/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/19RO600AIYX5M1-h1KiU-J_BgQB4Yf2F2/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1r6s1ROLLd8Oo66U8Bd9e9IhEeR7clmk-/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/11QWw32kxnu5aMpFyYnenVc3Sf4Grf_iq/view?usp=sharing) \| [Example 6](https://drive.google.com/file/d/1HBJ6oxVmf7f1JQLfm65tRY2FLxmXYDGe/view?usp=sharing)
+:::
 
 ## Writing resources
 
@@ -42,8 +43,9 @@ html:
 
 # Session 1 \| Introduction to the course + What is social justice?
 
-In the first part of the session, students will be provided with an overview of the course content and assessment policies. In the second part, we will discuss the fundamentals of social justice as a key topic of political philosophy and its relevance in education.
+In the first part of the session, students will be provided with an overview of the course content and assessment methods. In the second part, we will discuss the fundamentals of social justice as a key topic of political philosophy and its relevance in education. We will also explore the main critiques of the distributive paradigm in social justice.
 
+::: content-hidden
 - [Slides \| Session 1](https://drive.google.com/file/d/1O1bwBWjf6XJBFAzklj5TDepg-E-l0JKY/view?usp=sharing)
 
 # Session 2 \| Distributive justice
