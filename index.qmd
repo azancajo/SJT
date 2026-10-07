@@ -11,19 +11,21 @@ html:
 
 - [Syllabus](https://drive.google.com/file/d/12vy9PxdNOr4HZ1htUm5pEJTahJjk3yYU/view?usp=sharing)
 
-::: content-hidden
+
 ## Assignments
 
 ### Assignment 1 \| Blog post
 
-- [Assignment guidelines](https://drive.google.com/file/d/1ttGgWfnHxc9I05uoZWUmBdxCSNUnsPtw/view?usp=sharing)
+- [Assignment guidelines](https://drive.google.com/file/d/1WC8J-SUAbixkIEutbO8bUp61ffGNjQHr/view?usp=sharing)
 
-- [Assessment rubric](https://drive.google.com/file/d/1ktVgVK2AHmbQ1YpdgTHvVEnVbn-j5cxZ/view?usp=sharing)
+- [Assessment rubric](https://drive.google.com/file/d/1GBdONSnkfv-0nxL7OiQvZ-9BNzhg6Iq3/view?usp=sharing)
 
 - **Blog post examples:**
 
-[Example 1](https://drive.google.com/file/d/1Kg_AfT-8gWb2GsSd7uZPgEqu2DcXt2UD/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/18n1MLcX_TuPahAl1zpcOmgEtvwywG72r/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/16KpECeT7zPksqsUtzInAj6ef1qON94Jw/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1zPvtYvtehgiCQ0rJnpmw3CyUB-_yMu-B/view?usp=sharing)
+[Example 1](https://drive.google.com/file/d/1_C7h2d9HSTjQEALBLj60VahSL1Im44Kf/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1GeHZm5n7A1mTUc-NYQvWLSjZH0y5aRYa/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1iPEXkOwbICjjmeoDwYP85nt597xiVtsD/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1ZA7lIyVstIoFajRNNlUwwKBLp6kK_k1-/view?usp=sharing) \| [Example 
+5](https://drive.google.com/file/d/1d6tCXFFqZYFolZrOY2pAKDTUQIa3_SnO/view?usp=sharing)
 
+::: content-hidden
 ### Assignment 2 \| Short essay
 
 - [Assignment guidelines](https://drive.google.com/file/d/1kLI0ag_xTHYS-Yp6k3fiOVRLD4mS1tDt/view?usp=sharing)
@@ -49,7 +51,7 @@ In the first part of the session, students will be provided with an overview of 
 
 # Session 2 \| Distributive justice
 
-In this session, we will discuss the most relevant concepts and approaches to distributive justice. We will also explore their applications to education and the different conceptualisations of equality of opportunities in education. We will also explore the implications of distributive justice theories in defining educational equity. Finally, we will discuss the role of meritocracy in education and its relationship with equality of opportunities. 
+In this session, we will discuss the most relevant concepts and approaches to distributive justice. We will also explore their applications to education and the different conceptualisations of equality of opportunities in education. We will also explore the implications of distributive justice theories in defining educational equity. Finally, we will discuss the role of meritocracy in education and its relationship with equality of opportunities.
 
 ::: content-hidden
 - [Slides \| Session 2](https://drive.google.com/file/d/1-qhUujSUmqZ64JkGfHqd_lnqbuWMAjE5/view?usp=sharing)
