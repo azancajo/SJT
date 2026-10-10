@@ -11,7 +11,6 @@ html:
 
 - [Syllabus](https://drive.google.com/file/d/12vy9PxdNOr4HZ1htUm5pEJTahJjk3yYU/view?usp=sharing)
 
-
 ## Assignments
 
 ### Assignment 1 \| Blog post
@@ -22,8 +21,7 @@ html:
 
 - **Blog post examples:**
 
-[Example 1](https://drive.google.com/file/d/1_C7h2d9HSTjQEALBLj60VahSL1Im44Kf/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1GeHZm5n7A1mTUc-NYQvWLSjZH0y5aRYa/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1iPEXkOwbICjjmeoDwYP85nt597xiVtsD/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1ZA7lIyVstIoFajRNNlUwwKBLp6kK_k1-/view?usp=sharing) \| [Example 
-5](https://drive.google.com/file/d/1d6tCXFFqZYFolZrOY2pAKDTUQIa3_SnO/view?usp=sharing)
+[Example 1](https://drive.google.com/file/d/1_C7h2d9HSTjQEALBLj60VahSL1Im44Kf/view?usp=sharing) \| [Example 2](https://drive.google.com/file/d/1GeHZm5n7A1mTUc-NYQvWLSjZH0y5aRYa/view?usp=sharing) \| [Example 3](https://drive.google.com/file/d/1iPEXkOwbICjjmeoDwYP85nt597xiVtsD/view?usp=sharing) \| [Example 4](https://drive.google.com/file/d/1ZA7lIyVstIoFajRNNlUwwKBLp6kK_k1-/view?usp=sharing) \| [Example 5](https://drive.google.com/file/d/1d6tCXFFqZYFolZrOY2pAKDTUQIa3_SnO/view?usp=sharing)
 
 ::: content-hidden
 ### Assignment 2 \| Short essay
@@ -53,12 +51,14 @@ In the first part of the session, students will be provided with an overview of 
 
 In this session, we will discuss the most relevant concepts and approaches to distributive justice. We will also explore their applications to education and the different conceptualisations of equality of opportunities in education. We will also explore the implications of distributive justice theories in defining educational equity. Finally, we will discuss the role of meritocracy in education and its relationship with equality of opportunities.
 
-::: content-hidden
-- [Slides \| Session 2](https://drive.google.com/file/d/1-qhUujSUmqZ64JkGfHqd_lnqbuWMAjE5/view?usp=sharing)
+
+- [Slides \| Session 2](https://drive.google.com/file/d/1lhbq3wEHwP6s9juSb7LFEUvuuLRqN2Kf/view?usp=sharing)
 
 # Session 3 \| Recognition and representation
 
-In this session, two other social justice dimensions will be discussed: recognition and representation. Also, we will examine how pluralist models of social justice can contribute to the analysis of educational phenomena and policies. Finally, we will analyse the potential dilemmas and trade-offs between distribution, recognition, and representation.
+In this session, two other social justice dimensions will be discussed: recognition and representation. We will explore the basic concepts related to these two dimensions and their relevance for education. Moreover, during the session, we will examine how misrecognition can affect the distributive dimension of social justice. Finally, we will examine how pluralist models of social justice can contribute to the analysis of educational phenomena and policies. 
+
+::: content-hidden
 
 - [Slides \| Session 3](https://drive.google.com/file/d/1wdxVnFXVudH6C1m5hieMRpF6YF6Ls-9j/view?usp=sharing)
 
